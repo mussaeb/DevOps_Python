@@ -15,6 +15,7 @@ Build out Python project Scaffold:
 
 * Makfile
 * requirements.txt
+* test_library.py
 * python_library
 * Dockerfile
 * command_line_tool
