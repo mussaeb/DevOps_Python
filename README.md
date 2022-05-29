@@ -1,3 +1,5 @@
+[![Test Multiple Python Versions](https://github.com/mussaeb/DevOps_Python/actions/workflows/main.yml/badge.svg)](https://github.com/mussaeb/DevOps_Python/actions/workflows/main.yml)
+
 # DevOps_Python
 DevOps Work in Python from Scratch Repo.
 
