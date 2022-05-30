@@ -9,7 +9,7 @@ Create development environment that is cloud_based:
 
 ### Colab Notbook
 
-* How to Use [colab](https://github.com/mussaeb/DevOps_Python/blob/main/Python_start.ipynb)
+* Writing and excuting python code using [colab](https://github.com/mussaeb/DevOps_Python/blob/main/Python_start.ipynb)
 
 ### Github Codespaces
 
