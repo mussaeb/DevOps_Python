@@ -15,7 +15,7 @@ Create development environment that is cloud_based:
 
 Build out Python project Scaffold: 
 
-* Makfile
+* Makefile
 * requirements.txt
 * test_library.py
 * python_library
